@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "KAWASAKI",
+  "base_artist": "SANTOS BRAVOS",
+  "createdAt": "2026-03-05T08:06:03.398583Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kawasaki (feat. Lil Keed)",
+      "artist": "NGeeYL feat. Lil Keed",
+      "has_synced": true,
+      "path": "select/01_Kawasaki_(feat._Lil_Keed)_NGeeYL_feat._Lil_Keed.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kawasaki (feat. Lil Keed)",
+      "artist": "NGeeYL",
+      "has_synced": true,
+      "path": "select/02_Kawasaki_(feat._Lil_Keed)_NGeeYL.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kawasaki",
+      "artist": "Iggy Azalea",
+      "has_synced": true,
+      "path": "select/03_Kawasaki_Iggy_Azalea.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kawasaki",
+      "artist": "88GLAM",
+      "has_synced": false,
+      "path": "select/04_Kawasaki_88GLAM.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Kawasaki",
+      "artist": "88GLAM",
+      "has_synced": true,
+      "path": "select/05_Kawasaki_88GLAM.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Kawasaki Backflip",
+      "artist": "Dogleg",
+      "has_synced": true,
+      "path": "select/06_Kawasaki_Backflip_Dogleg.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Kawasaki",
+      "artist": "Summer Cem",
+      "has_synced": true,
+      "path": "select/07_Kawasaki_Summer_Cem.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kawasaki",
+      "artist": "Mad Clip feat. Jaypee & Skive",
+      "has_synced": true,
+      "path": "select/08_Kawasaki_Mad_Clip_feat._Jaypee_&_Skive.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Kawasaki",
+      "artist": "Mad Clip, JayPee & Skive",
+      "has_synced": true,
+      "path": "select/09_Kawasaki_Mad_Clip,_JayPee_&_Skive.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Kawasaki",
+      "artist": "UnoTheActivist",
+      "has_synced": true,
+      "path": "select/10_Kawasaki_UnoTheActivist.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Kawasaki",
+      "artist": "Jane Birkin",
+      "has_synced": true,
+      "path": "select/11_Kawasaki_Jane_Birkin.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Kawasaki (feat. Laylow)",
+      "artist": "S.Pri Noir feat. Laylow",
+      "has_synced": true,
+      "path": "select/12_Kawasaki_(feat._Laylow)_S.Pri_Noir_feat._Laylow.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Kawasaki",
+      "artist": "S.Pri Noir",
+      "has_synced": false,
+      "path": "select/13_Kawasaki_S.Pri_Noir.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Kawasaki Drift",
+      "artist": "BAD HOP",
+      "has_synced": true,
+      "path": "select/14_Kawasaki_Drift_BAD_HOP.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Kawasaki",
+      "artist": "El Jhota",
+      "has_synced": true,
+      "path": "select/15_Kawasaki_El_Jhota.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Kawasaki",
+      "artist": "Beny Jr",
+      "has_synced": true,
+      "path": "select/16_Kawasaki_Beny_Jr.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Kawasaki",
+      "artist": "Pedro LaDroga feat. MARIA SIOKE & Kabasaki",
+      "has_synced": true,
+      "path": "select/17_Kawasaki_Pedro_LaDroga_feat._MARIA_SIOKE_&_Kabasaki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "KAWASAKI (&TEAM Remix)",
+      "artist": "SANTOS BRAVOS & &TEAM",
+      "has_synced": false,
+      "path": "select/pl_01_KAWASAKI_(&TEAM_Remix)_SANTOS_BRAVOS_&_&TEAM.txt"
+    }
+  ]
+}
